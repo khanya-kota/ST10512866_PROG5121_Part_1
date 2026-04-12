@@ -1,2 +1,13 @@
-# ST10512866_PROG5121_Part_1
-hi khanya
+# Chat Application high-Part 1
+
+...
+
+## Student Information
+- Name : Khanya Kota
+- Student Number : ST10512866
+- Module : PROG5121
+
+...
+
+21 Project Information
+- This project is focused on the building of the foundation 
